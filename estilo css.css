@@ -1,0 +1,32 @@
+/*Comentando*/
+body{
+	font-family: arial;
+	color: #808000;
+	background-color: #F5DEB3;
+}
+p{
+	text-align: justify;
+	font-size: 12px;
+	margin-left: 5px;
+	margin-top: 10px;
+	
+}
+h1{
+	text-align: right;
+	text-transform: uppercase;
+	font-size: 30px;
+}
+
+.cabecalho{
+	text-align: center;
+}
+.gremio{
+	color: blue;
+}
+.inter{
+	color: red;
+	font-style: italic;
+}
+.cbf{
+	color: yellow;
+}
